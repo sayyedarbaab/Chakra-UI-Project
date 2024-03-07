@@ -9,6 +9,7 @@ import {
   Flex,
   Button,
 } from "@chakra-ui/react";
+import { Link } from "react-router-dom";
 import React from "react";
 
 function PostCard() {
@@ -31,7 +32,7 @@ function PostCard() {
             <Text fontSize="sm">
               Hello,Guys welcome to the Chakra Ui Component Based Web App.
             </Text>
-            <Button alignSelf="flex-end" size="sm">
+            <Button alignSelf="flex-end" size="sm" as={Link} to="/post">
               View Post
             </Button>
           </VStack>
