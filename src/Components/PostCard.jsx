@@ -19,7 +19,7 @@ function PostCard() {
         <Image src="/img.jpg" alt="img"></Image>
         <Stack p="4">
           <HStack>
-            <Avatar size="sm" />
+          <Avatar src="./imgB.png" size="sm"/>
             <Text fontWeight="600">Sayyed Arbaab</Text>
             <Text fontSize="xs">1 min ago</Text>
           </HStack>

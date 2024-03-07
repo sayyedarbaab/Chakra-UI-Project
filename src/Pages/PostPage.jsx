@@ -29,7 +29,7 @@ function PostPage() {
         </Heading>
         <Image src="/img.jpg" />
         <HStack>
-          <Avatar size="lg" />
+        <Avatar src="./imgB.png" size="lg"/>
           <Text fontWeight="600">Sayyed Arbaab</Text>
           <Text fontSize="xs">1 min ago</Text>
         </HStack>

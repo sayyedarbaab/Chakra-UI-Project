@@ -62,7 +62,7 @@ function Navi() {
         </IconButton>
         <Menu>
           <MenuButton>
-            <Avatar />
+            <Avatar src="./imgB.png"/>
           </MenuButton>
           <MenuList>
             <MenuItem>Profile</MenuItem>
