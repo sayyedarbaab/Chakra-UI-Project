@@ -35,7 +35,7 @@ function Cart() {
       </VStack>
       <HStack spacing={6} alignItems="center" w="full">
         <AspectRatio ratio={1} w={24}>
-          <Image src="" alt="lg" />
+          <Image src="/theme.jpg" alt="lg" />
         </AspectRatio>
         <Stack
           spacing={0}
