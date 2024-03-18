@@ -49,7 +49,7 @@ function Cart() {
             <Text color={textColor}>PNSSBSGDSS221</Text>
           </VStack>
           <Heading size="sm" textAlign="end">
-            $119
+            $229
           </Heading>
         </Stack>
       </HStack>
