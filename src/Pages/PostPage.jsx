@@ -76,13 +76,7 @@ function PostPage() {
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. I have been working on
-              programming language from starting my graduation and I gain many
-              skill after completing my graduation, I learned Full Stack Web
-              Development but I m Passionate about front-end development and I
+             but I m Passionate about front-end development and I
               have hands-on experience to build a web app so, I am interested to
               work as a front-end web developer to build applications. I have
               been working on programming language from starting my graduation
